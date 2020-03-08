@@ -1,0 +1,9 @@
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\bin\Debug\StartReset.exe.config
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\bin\Debug\StartReset.exe
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\bin\Debug\StartReset.pdb
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\obj\Debug\StartReset.csprojResolveAssemblyReference.cache
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\obj\Debug\StartReset.Form1.resources
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\obj\Debug\StartReset.Properties.Resources.resources
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\obj\Debug\StartReset.csproj.GenerateResource.Cache
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\obj\Debug\StartReset.exe
+F:\_SKILLSCOMP\mar_08_2020\StartReset\StartReset\obj\Debug\StartReset.pdb
